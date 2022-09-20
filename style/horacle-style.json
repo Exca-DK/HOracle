@@ -24,7 +24,7 @@
   "editable": true,
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
-  "id": 1,
+  "id": 2,
   "links": [],
   "liveNow": false,
   "panels": [
@@ -44,7 +44,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "cfV8gtM4k"
+        "uid": "X0p7P0n4k"
       },
       "fieldConfig": {
         "defaults": {
@@ -88,7 +88,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.1.1",
+      "pluginVersion": "9.1.6",
       "targets": [
         {
           "datasource": {
@@ -156,7 +156,7 @@
         "text": {},
         "textMode": "value_and_name"
       },
-      "pluginVersion": "9.1.1",
+      "pluginVersion": "9.1.6",
       "targets": [
         {
           "datasource": {
@@ -240,7 +240,7 @@
         "text": {},
         "textMode": "value_and_name"
       },
-      "pluginVersion": "9.1.1",
+      "pluginVersion": "9.1.6",
       "targets": [
         {
           "datasource": {
@@ -304,7 +304,7 @@
         },
         "textMode": "value_and_name"
       },
-      "pluginVersion": "9.1.1",
+      "pluginVersion": "9.1.6",
       "targets": [
         {
           "datasource": {
@@ -372,7 +372,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.1.1",
+      "pluginVersion": "9.1.6",
       "targets": [
         {
           "datasource": {
@@ -682,7 +682,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.1.1",
+      "pluginVersion": "9.1.6",
       "targets": [
         {
           "datasource": {
@@ -743,7 +743,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.1.1",
+      "pluginVersion": "9.1.6",
       "targets": [
         {
           "datasource": {
@@ -805,7 +805,7 @@
         },
         "showUnfilled": true
       },
-      "pluginVersion": "9.1.1",
+      "pluginVersion": "9.1.6",
       "targets": [
         {
           "datasource": {
@@ -888,7 +888,7 @@
         },
         "showUnfilled": true
       },
-      "pluginVersion": "9.1.1",
+      "pluginVersion": "9.1.6",
       "targets": [
         {
           "datasource": {
@@ -1149,7 +1149,7 @@
         "content": "# <center>Daily Activity\n\n***",
         "mode": "markdown"
       },
-      "pluginVersion": "9.1.1",
+      "pluginVersion": "9.1.6",
       "transparent": true,
       "type": "text"
     },
@@ -1170,8 +1170,7 @@
             "mode": "percentage",
             "steps": [
               {
-                "color": "dark-red",
-                "value": null
+                "color": "dark-red"
               },
               {
                 "color": "orange",
@@ -1238,8 +1237,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "semi-dark-red",
-                "value": null
+                "color": "semi-dark-red"
               },
               {
                 "color": "light-red",
@@ -1312,8 +1310,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               }
             ]
           },
@@ -1429,8 +1426,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -1527,8 +1523,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -1589,8 +1584,8 @@
   },
   "timepicker": {},
   "timezone": "",
-  "title": "HoudiniPrometheus",
-  "uid": "fju0K_k4z",
-  "version": 4,
+  "title": "HoudiniOracle",
+  "uid": "fju0K_k4b",
+  "version": 1,
   "weekStart": ""
 }
