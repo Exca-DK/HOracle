@@ -1,8 +1,11 @@
-# # HOracle
-
-
+# HOracle
 
 HOracle is an detailed activity tracker for SideFX Houdini.
+
+![grafana-1](https://user-images.githubusercontent.com/85954505/191325559-afd7c27e-99a7-436d-a875-552cf7e45286.png)
+![grafana-2](https://user-images.githubusercontent.com/85954505/191325576-cdfad3b2-96c9-48d1-bb07-12f899bc0ca9.png)
+
+
 This reposity is split in two branches, client and server.
 
 ## Features
