@@ -1,4 +1,4 @@
-module github.com/Exca-DK/HoudiniPrometheus
+module github.com/Exca-DK/HOracle
 
 go 1.18
 

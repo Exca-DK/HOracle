@@ -11,11 +11,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Exca-DK/HoudiniPrometheus/config"
-	"github.com/Exca-DK/HoudiniPrometheus/core"
-	logging "github.com/Exca-DK/HoudiniPrometheus/log"
-	"github.com/Exca-DK/HoudiniPrometheus/metrics"
-	"github.com/Exca-DK/HoudiniPrometheus/services"
+	"github.com/Exca-DK/HOracle/config"
+	"github.com/Exca-DK/HOracle/core"
+	logging "github.com/Exca-DK/HOracle/log"
+	"github.com/Exca-DK/HOracle/metrics"
+	"github.com/Exca-DK/HOracle/services"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 
 	"go.uber.org/zap"

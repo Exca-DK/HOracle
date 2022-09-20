@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Exca-DK/HoudiniPrometheus/core"
+	"github.com/Exca-DK/HOracle/core"
 	"github.com/spf13/viper"
 )
 

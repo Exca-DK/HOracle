@@ -4,9 +4,9 @@ import (
 	"context"
 	"log"
 
-	"github.com/Exca-DK/HoudiniPrometheus/app"
-	"github.com/Exca-DK/HoudiniPrometheus/config"
-	logging "github.com/Exca-DK/HoudiniPrometheus/log"
+	"github.com/Exca-DK/HOracle/app"
+	"github.com/Exca-DK/HOracle/config"
+	logging "github.com/Exca-DK/HOracle/log"
 )
 
 func main() {

@@ -3,9 +3,9 @@ package endpoint
 import (
 	"reflect"
 
-	"github.com/Exca-DK/HoudiniPrometheus/core"
-	"github.com/Exca-DK/HoudiniPrometheus/internal"
-	types "github.com/Exca-DK/HoudiniPrometheus/services/paramUpdated"
+	"github.com/Exca-DK/HOracle/core"
+	"github.com/Exca-DK/HOracle/internal"
+	types "github.com/Exca-DK/HOracle/services/paramUpdated"
 )
 
 type Set struct {

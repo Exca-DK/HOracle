@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Exca-DK/HoudiniPrometheus/core"
-	"github.com/Exca-DK/HoudiniPrometheus/metrics"
-	types "github.com/Exca-DK/HoudiniPrometheus/services/renderActivity"
+	"github.com/Exca-DK/HOracle/core"
+	"github.com/Exca-DK/HOracle/metrics"
+	types "github.com/Exca-DK/HOracle/services/renderActivity"
 )
 
 type ViewportActivity struct {

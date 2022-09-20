@@ -3,9 +3,9 @@ package endpoint
 import (
 	"reflect"
 
-	"github.com/Exca-DK/HoudiniPrometheus/core"
-	"github.com/Exca-DK/HoudiniPrometheus/internal"
-	types "github.com/Exca-DK/HoudiniPrometheus/services/renderActivity"
+	"github.com/Exca-DK/HOracle/core"
+	"github.com/Exca-DK/HOracle/internal"
+	types "github.com/Exca-DK/HOracle/services/renderActivity"
 )
 
 type Set struct {

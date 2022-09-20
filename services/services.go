@@ -1,25 +1,25 @@
 package services
 
 import (
-	"github.com/Exca-DK/HoudiniPrometheus/core"
+	"github.com/Exca-DK/HOracle/core"
 
-	ParamUpdatedServiceSet "github.com/Exca-DK/HoudiniPrometheus/services/paramUpdated/endpoint"
-	ParamUpdatedService "github.com/Exca-DK/HoudiniPrometheus/services/paramUpdated/service"
+	ParamUpdatedServiceSet "github.com/Exca-DK/HOracle/services/paramUpdated/endpoint"
+	ParamUpdatedService "github.com/Exca-DK/HOracle/services/paramUpdated/service"
 
-	NodeCreatedServiceSet "github.com/Exca-DK/HoudiniPrometheus/services/nodeCreated/endpoint"
-	NodeCreatedService "github.com/Exca-DK/HoudiniPrometheus/services/nodeCreated/service"
+	NodeCreatedServiceSet "github.com/Exca-DK/HOracle/services/nodeCreated/endpoint"
+	NodeCreatedService "github.com/Exca-DK/HOracle/services/nodeCreated/service"
 
-	NodeDeletedServiceSet "github.com/Exca-DK/HoudiniPrometheus/services/nodeDeleted/endpoint"
-	NodeDeletedService "github.com/Exca-DK/HoudiniPrometheus/services/nodeDeleted/service"
+	NodeDeletedServiceSet "github.com/Exca-DK/HOracle/services/nodeDeleted/endpoint"
+	NodeDeletedService "github.com/Exca-DK/HOracle/services/nodeDeleted/service"
 
-	renderActivityServiceSet "github.com/Exca-DK/HoudiniPrometheus/services/renderActivity/endpoint"
-	renderActivityService "github.com/Exca-DK/HoudiniPrometheus/services/renderActivity/service"
+	renderActivityServiceSet "github.com/Exca-DK/HOracle/services/renderActivity/endpoint"
+	renderActivityService "github.com/Exca-DK/HOracle/services/renderActivity/service"
 
-	sceneSavedServiceSet "github.com/Exca-DK/HoudiniPrometheus/services/sceneSaved/endpoint"
-	sceneSavedService "github.com/Exca-DK/HoudiniPrometheus/services/sceneSaved/service"
+	sceneSavedServiceSet "github.com/Exca-DK/HOracle/services/sceneSaved/endpoint"
+	sceneSavedService "github.com/Exca-DK/HOracle/services/sceneSaved/service"
 
-	viewportActivityServiceSet "github.com/Exca-DK/HoudiniPrometheus/services/viewportActivity/endpoint"
-	viewportActivitService "github.com/Exca-DK/HoudiniPrometheus/services/viewportActivity/service"
+	viewportActivityServiceSet "github.com/Exca-DK/HOracle/services/viewportActivity/endpoint"
+	viewportActivitService "github.com/Exca-DK/HOracle/services/viewportActivity/service"
 )
 
 type ServiceBundle struct {

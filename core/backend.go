@@ -5,7 +5,7 @@ import (
 	"os"
 	"reflect"
 
-	logging "github.com/Exca-DK/HoudiniPrometheus/log"
+	logging "github.com/Exca-DK/HOracle/log"
 	"go.uber.org/zap"
 )
 

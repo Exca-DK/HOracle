@@ -4,9 +4,9 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/Exca-DK/HoudiniPrometheus/core"
-	"github.com/Exca-DK/HoudiniPrometheus/metrics"
-	types "github.com/Exca-DK/HoudiniPrometheus/services/sceneSaved"
+	"github.com/Exca-DK/HOracle/core"
+	"github.com/Exca-DK/HOracle/metrics"
+	types "github.com/Exca-DK/HOracle/services/sceneSaved"
 )
 
 type SceneSavedService struct {

@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"time"
 
-	logging "github.com/Exca-DK/HoudiniPrometheus/log"
-	metrics "github.com/Exca-DK/HoudiniPrometheus/metrics"
+	logging "github.com/Exca-DK/HOracle/log"
+	metrics "github.com/Exca-DK/HOracle/metrics"
 
 	"go.uber.org/zap"
 )

@@ -4,9 +4,9 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/Exca-DK/HoudiniPrometheus/core"
-	"github.com/Exca-DK/HoudiniPrometheus/metrics"
-	types "github.com/Exca-DK/HoudiniPrometheus/services/nodeCreated"
+	"github.com/Exca-DK/HOracle/core"
+	"github.com/Exca-DK/HOracle/metrics"
+	types "github.com/Exca-DK/HOracle/services/nodeCreated"
 )
 
 type ParamUpdatedService struct {
